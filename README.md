@@ -2,5 +2,7 @@
 
 # HOMEWORK TO-DOs
 
-[ ] Upload github profile picture
-[ ] Setup Project Teams...
+[Issue 1]{https://github.com/ddrocha/SSW345DavidRocha/issues/1}
+
+
+[Issue 2]{https://github.com/ddrocha/SSW345DavidRocha/issues/2}
